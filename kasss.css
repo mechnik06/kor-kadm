@@ -1,0 +1,27 @@
+h1{
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: 800;  
+  color: blue;
+}
+ h1:active{
+    width: 100px;
+    color: red;
+    transition: 1s;
+    background-color: aquamarine;
+    
+ }
+
+h2{
+    width: 120px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 800;  
+    color: green;
+  }
+  h2:active{
+    
+         color: blueviolet;
+         transition: 1s;
+         background-color: firebrick;
+  }
